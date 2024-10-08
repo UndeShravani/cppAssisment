@@ -12,6 +12,10 @@ At last the program is returned in the main function.
 There was the option to use for loop directly but I thought to take my output stape wise.
 The total cost of supply is 48.75
 
+[Multi inheritance 1.docx](https://github.com/user-attachments/files/17296057/Multi.inheritance.1.docx)
+
+
 [Multi inheritance 2.docx](https://github.com/user-attachments/files/17295863/Multi.inheritance.2.docx)
+
 
 
